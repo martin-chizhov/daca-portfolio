@@ -1,0 +1,2 @@
+# Week 0: why I am here
+My name is Martin Chizhov. I am interested in this course because I want to develop practical skills in SQL, Python, and Power BI and build a strong foundation for a career in data analytics. I enjoy working with data, identifying patterns, and turning complex information into meaningful insights that support better decision-making. In the future, I would like to build my career in the Anti-Money Laundering (AML) field, combining data analytics with financial crime prevention and risk analysis.
